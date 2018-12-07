@@ -1,0 +1,2 @@
+awscli>=1.16.70
+requests>=2.13.0
